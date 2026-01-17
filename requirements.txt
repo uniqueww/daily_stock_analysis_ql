@@ -1,0 +1,9 @@
+tenacity
+akshare
+pandas
+numpy
+google-generativeai
+openai
+tavily-python
+requests
+fake-useragent
