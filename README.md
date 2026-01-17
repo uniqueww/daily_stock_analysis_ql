@@ -28,7 +28,7 @@
 
 ```
 名称：A股智能分析
-链接：https://github.com/uniqueque/daily_stock_analysis_ql.git
+链接：https://github.com/uniqueww/daily_stock_analysis_ql.git
 定时：0 18 * * 1-5
 白名单：ql_main.py
 ```
