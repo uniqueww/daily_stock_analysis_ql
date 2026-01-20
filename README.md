@@ -58,7 +58,7 @@ tenacity akshare pandas numpy google-generativeai openai tavily-python requests 
 | `GEMINI_API_KEY`  | 二选一 | Google Gemini Key    | `AIzaSy...`                   |
 | `OPENAI_API_KEY`  | 二选一 | OpenAI 兼容 Key      | `sk-...`                      |
 | `OPENAI_BASE_URL` |        | 自定义 API 地址      | `https://api.deepseek.com/v1` |
-| `BARK_PUSH`       |        | Bark 推送地址        | `https://api.day.app/xxx`     |
+| `TAVILY_API_KEYS` |        | Tavily新闻搜索        | `tvly-dev-c55Txxxxx`         |
 
 > 💡 更多推送渠道（钉钉、企业微信、Telegram 等）配置见 `notify.py`
 
